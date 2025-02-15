@@ -18,18 +18,19 @@ Developed by th using Fast. An Extension to render animated text paths with cust
 ## <kbd>Events:</kbd>
 **PathMaker** has total 6 events.<br><br>
 
-![AnimationStartBlock](https://github.com/user-attachments/assets/8a2bdddf-a57d-492e-a385-1dd6ea4ac189)
-### 💛 AnimationStart
-Triggered when the animation starts.
+> ![AnimationStartBlock](https://github.com/user-attachments/assets/8a2bdddf-a57d-492e-a385-1dd6ea4ac189)
+> ### 💛 AnimationStart
+> Triggered when the animation starts.
+  ---
 
-![AnimationEndBlock](https://github.com/user-attachments/assets/16a62b43-c1f1-4784-ad83-753d311d6f5c)
-### 💛 AnimationEnd
-Triggered when the animation ends.
-
+> ![AnimationEndBlock](https://github.com/user-attachments/assets/16a62b43-c1f1-4784-ad83-753d311d6f5c)
+> ### 💛 AnimationEnd
+> Triggered when the animation ends.
+  ---
 ![AnimationRepeatBlock](https://github.com/user-attachments/assets/c62b8d72-435e-4afd-841f-45b615005a53)
 ### 💛 AnimationRepeat
 Triggered when the animation is repeated.
-
+ ---
 ![AnimationCancelBlock](https://github.com/user-attachments/assets/6b8c0474-73b5-4397-bb25-c90883f3d644)
 ### 💛 AnimationCancel
 Triggered when the animation is canceled.
@@ -220,7 +221,7 @@ Parameters:
 | - | - |
 | calculatorType | number
 
-
+![SetTextSizeBlock](https://github.com/user-attachments/assets/228eedde-a13d-4d4b-9aab-d27d370f3158)
 ### 💜 SetTextSize
 Set the text size for the text path.
 
@@ -228,6 +229,7 @@ Set the text size for the text path.
 | - | - |
 | textSize | number
 
+![SetTextColorBlock](https://github.com/user-attachments/assets/84e69da6-23e3-452e-8129-baf96a6c2fbe)
 ### 💜 SetTextColor
 Set the color for the text path (in ARGB format).
 
@@ -235,6 +237,7 @@ Set the color for the text path (in ARGB format).
 | - | - |
 | color | number
 
+![SetTextStrokeWidthBlock](https://github.com/user-attachments/assets/c69db906-835f-4fed-a299-437f30fdc0b0)
 ### 💜 SetTextStrokeWidth
 Set the stroke width for the text path (in pixels).
 
@@ -245,81 +248,97 @@ Set the stroke width for the text path (in pixels).
 ## <kbd>Setters:</kbd>
 **PathMaker** has total 16 setter properties.
 
+![SetTextBlock](https://github.com/user-attachments/assets/15bc3cfd-c5a6-46d4-85a1-3b860e57b1f2)
 ### 💚 SetText
 Set the text to be displayed as a path (in percentage).
 
 * Input type: `text`
 
+![SetStrokeWidthBlock](https://github.com/user-attachments/assets/2d659ba5-b8a6-40eb-acb4-d8d7200f9804)
 ### 💚 SetStrokeWidth
 Set the stroke width for the text path (in pixels).
 
 * Input type: `number`
 
+![SetRadiusBlock](https://github.com/user-attachments/assets/083682ed-a487-473a-91e4-18384cd74768)
 ### 💚 SetRadius
 Set the radius for the text path (in pixels).
 
 * Input type: `number`
 
+![SetAngleBlock](https://github.com/user-attachments/assets/f13f5e72-f797-4b8a-8ef4-bb8c8d6705eb)
 ### 💚 SetAngle
 Set the angle for the text path (in radians).
 
 * Input type: `number`
 
+![SetStartBlock](https://github.com/user-attachments/assets/de27655e-dd2f-471c-8863-864d842df5d7)
 ### 💚 SetStart
 Set the start position of the animation (0 to 1).
 
 * Input type: `number`
 
+![SetEndBlock](https://github.com/user-attachments/assets/6f116a6f-30d4-4a5a-9e44-14e89ea26082)
 ### 💚 SetEnd
 Set the end position of the animation (0 to 1).
 
 * Input type: `number`
 
+![SetShowPainterBlock](https://github.com/user-attachments/assets/23d17779-335c-4ed7-b365-4a2e55ab2578)
 ### 💚 SetShowPainter
 Set whether to show the painter (true if shown) (in percentage).
 
 * Input type: `boolean`
 
+![SetShowPainterActuallyBlock](https://github.com/user-attachments/assets/201c202a-7268-44c2-903d-d7f8a2c68e9d)
 ### 💚 SetShowPainterActually
 Set whether to show the painter actually (true if shown) (in percentage).
 
 * Input type: `boolean`
 
+![ShowFillColorTextBlock](https://github.com/user-attachments/assets/0c4c6867-f054-4463-aa9c-752ae39b38bb)
 ### 💚 ShowFillColorText
 Set whether to show fill color text (true if shown) (in percentage).
 
 * Input type: `boolean`
 
+![SetDurationBlock](https://github.com/user-attachments/assets/2d8cca68-fae0-477b-9aff-e6f6e5effde9)
 ### 💚 SetDuration
 Set the duration for the animation (in milliseconds).
 
 * Input type: `number`
 
+![SetRepeatStyleBlock](https://github.com/user-attachments/assets/dedbe0be-f716-4cfe-ba9d-0d76ab573cd2)
 ### 💚 SetRepeatStyle
 Set the repeat style for the animation (NONE, RESTART, REVERSE).
 
 * Input type: `number`
 
+![SetShowInStartBlock](https://github.com/user-attachments/assets/0677a3e0-4f9f-426b-83a4-c7f45003bc76)
 ### 💚 SetShowInStart
 Set whether to show the text path at the beginning (true if shown at the beginning).
 
 * Input type: `boolean`
 
+![SetTextInCenterBlock](https://github.com/user-attachments/assets/051d736f-04ae-4c9c-9fde-79503a693d52)
 ### 💚 SetTextInCenter
 Set whether to center the text (true if centered).
 
 * Input type: `boolean`
 
+![SetPaintStrokeWidthBlock](https://github.com/user-attachments/assets/62a23d91-295a-4f51-8e81-ee859e9a3fd1)
 ### 💚 SetPaintStrokeWidth
 Set the width of the paint effect stroke (in pixels).
 
 * Input type: `number`
 
+![SetPaintStrokeColorBlock](https://github.com/user-attachments/assets/156c9f80-496e-4b90-a90c-34dca081122e)
 ### 💚 SetPaintStrokeColor
 Set the color of the paint effect stroke (in ARGB format).
 
 * Input type: `number`
 
+![SetRepeatTypeBlock](https://github.com/user-attachments/assets/55b80a5e-da4c-4798-a332-296412061afe)
 ### 💚 SetRepeatType
 Set the repeat type of the animation (NONE, RESTART, REVERSE).
 
@@ -328,50 +347,59 @@ Set the repeat type of the animation (NONE, RESTART, REVERSE).
 ## <kbd>Getters:</kbd>
 **PathMaker** has total 9 getter properties.
 
+![RadiusBlock](https://github.com/user-attachments/assets/16c4ba92-7b0b-4508-8c33-6d49adb1fa62)
 ### 🟢 Radius
 Get the radius of the text path (in pixels).
 
 * Return type: `number`
 
+![StartBlock](https://github.com/user-attachments/assets/1b615cb8-56b9-4f9d-9b10-3a314c3f3532)
 ### 🟢 Start
 Get the start position of the animation (0 to 1).
 
 * Return type: `number`
-
+* 
+![EndBlock](https://github.com/user-attachments/assets/5a8ea9cb-4825-42fa-8b4b-6349aceb8a96)
 ### 🟢 End
 Get the end position of the animation (0 to 1).
 
 * Return type: `number`
 
+![AutoStartBlock](https://github.com/user-attachments/assets/fd7c55b1-9ac8-44c8-bff8-a016a5b78ff8)
 ### 🟢 AutoStart
 Get the auto start setting (true if started automatically).
 
 * Return type: `boolean`
 
+![ShowInStartBlock](https://github.com/user-attachments/assets/00b4b4f6-1888-472d-ab5c-a48ea718c425)
 ### 🟢 ShowInStart
 Get the show in start setting (true if shown at the beginning).
 
 * Return type: `boolean`
 
+![TextInCenterBlock](https://github.com/user-attachments/assets/dd23c283-8db1-401e-9490-ca7f0ae0926b)
 ### 🟢 TextInCenter
 Get the text in center setting (true if centered).
 
 * Return type: `boolean`
 
+![PaintStrokeWidthBlock](https://github.com/user-attachments/assets/86c90af6-0be0-4530-8937-a827bf3529d8)
 ### 🟢 PaintStrokeWidth
 Get the current paint stroke width (in pixels).
 
 * Return type: `number`
 
+![PaintStrokeColorBlock](https://github.com/user-attachments/assets/b8b6b2e5-c02e-4976-9fb4-f6725e6b8fe9)
 ### 🟢 PaintStrokeColor
 Get the current paint stroke color.
 
 * Return type: `number`
-
+  
+![RepeatTypeBlock](https://github.com/user-attachments/assets/8e570f3e-535d-4e3c-a11c-2e848f834757)
 ### 🟢 RepeatType
 Get the current repeat type.
 
 * Return type: `number`
 
-### Thanks
+## Thanks
     TechHamara
