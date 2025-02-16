@@ -13,7 +13,11 @@ Developed by th using Fast. An Extension to render animated text paths with cust
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-02-14 timezone="Asia/Calcutta"]<br>
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br>
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br><br>
+
+## Demo Blocks
+![path-maker-blocks](https://github.com/user-attachments/assets/e523a1bb-f0d4-49db-bec8-97a748967042)
+
 
 ## <kbd>Events:</kbd>
 **PathMaker** has total 6 events.<br><br>
