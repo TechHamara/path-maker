@@ -9,7 +9,7 @@ Developed by th using Fast. An Extension to render animated text paths with cust
 
 ## 📝 Specifications
 * **
-💾 **Size:** 38.11 KB <br>
+💾 **Size:** 46.31 KB <br>
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-02-14 timezone="Asia/Calcutta"]<br>
@@ -20,36 +20,31 @@ Developed by th using Fast. An Extension to render animated text paths with cust
 
 
 ## <kbd>Events:</kbd>
-**PathMaker** has total 6 events.<br><br>
+**PathMaker** has total 5 events.<br><br>
 
-> ![AnimationStartBlock](https://github.com/user-attachments/assets/8a2bdddf-a57d-492e-a385-1dd6ea4ac189)
-> ### 💛 AnimationStart
-> Triggered when the animation starts.
-  ---
+![OnAnimationStartBlock](https://github.com/user-attachments/assets/89887ba5-f549-4c89-86a5-d457d7637278)
+### 💛 OnAnimationStart
+Event raised when animation starts
 
-> ![AnimationEndBlock](https://github.com/user-attachments/assets/16a62b43-c1f1-4784-ad83-753d311d6f5c)
-> ### 💛 AnimationEnd
-> Triggered when the animation ends.
-  ---
-![AnimationRepeatBlock](https://github.com/user-attachments/assets/c62b8d72-435e-4afd-841f-45b615005a53)
-### 💛 AnimationRepeat
-Triggered when the animation is repeated.
- ---
-![AnimationCancelBlock](https://github.com/user-attachments/assets/6b8c0474-73b5-4397-bb25-c90883f3d644)
-### 💛 AnimationCancel
-Triggered when the animation is canceled.
+![OnAnimationEndBlock](https://github.com/user-attachments/assets/3d58f2e8-365f-4c8c-846e-d053e8dc9f74)
+### 💛 OnAnimationEnd
+Event raised when animation ends
 
-![AnimationProgressBlock](https://github.com/user-attachments/assets/fc426336-1f6f-4da5-b2c6-0511367b3ecc)
-### 💛 AnimationProgress
-Triggered when the animation progress updates (in percentage).
+![OnAnimationCancelBlock](https://github.com/user-attachments/assets/61756066-43f5-463b-b7e0-1ea9a9523c70)
+### 💛 OnAnimationCancel
+Event raised when animation is cancelled
+
+![OnAnimationRepeatBlock](https://github.com/user-attachments/assets/a567c464-52c5-430a-8ffc-c4fa940e5218)
+### 💛 OnAnimationRepeat
+Event raised when animation repeats
+
+![OnProgressChangedBlock](https://github.com/user-attachments/assets/7eb9b000-b5e5-45b7-9d30-72a46fcbbaf8)
+### 💛 OnProgressChanged
+Event raised when progress changes. Returns current progress value between 0 and 1
 
 | Parameter | Type
 | - | - |
 | progress | number
-
-![AnimationCompleteBlock](https://github.com/user-attachments/assets/b6bbc53c-5ae1-4a04-acf9-399fadea0ed3)
-### 💛 AnimationComplete
-Triggered when the animation is completed.
 
 ## <kbd>Methods:</kbd>
 **PathMaker** has total 29 methods.<br>
