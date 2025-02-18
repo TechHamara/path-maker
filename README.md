@@ -42,6 +42,8 @@ https://github.com/user-attachments/assets/162ee7bb-e07f-4780-a5b1-bc41b9403656
 
 ![8c27bc91-4d78-4f33-bba7-cfcddd02ca13.gif](https://github.com/user-attachments/assets/00900f6d-9c0a-4514-a0e1-6bd541b6c03d)
 
+<br>
+https://youtube.com/shorts/EMdTMXhvMyU?si=Ra0AjCtDAMyoiT4C
 
 
 ## <kbd>Events:</kbd>
