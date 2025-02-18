@@ -18,6 +18,23 @@ Developed by th using Fast. An Extension to render animated text paths with cust
 ## Demo Blocks
 ![path-maker-blocks](https://github.com/user-attachments/assets/e523a1bb-f0d4-49db-bec8-97a748967042)
 
+## Demo
+
+![37df6593-d44f-4b77-8d87-1d1772d0742e.gif](https://github.com/user-attachments/assets/60b2342f-cd2d-43d9-80ad-426cba741854)
+
+![a16e57ee-9640-4b01-9048-9b8e51e5e609.gif](https://github.com/user-attachments/assets/515c136a-9f14-4a6f-8f5b-e6e08c1a0120)
+
+![8046cdd6-c413-48a8-adcb-02031f1e967c.gif](https://github.com/user-attachments/assets/b7f2fd51-6ff1-43fa-9b2b-7047f7f620b7)
+
+https://github.com/user-attachments/assets/162ee7bb-e07f-4780-a5b1-bc41b9403656
+
+![5988ea66-0cf3-4742-8ba4-cdeb2ef2ba64.gif](https://github.com/user-attachments/assets/be1eeef2-b9d4-41e8-a829-2f7abf930b96)
+
+![7d2a9e66-5282-4be8-8b71-f184c31bc191.gif](https://github.com/user-attachments/assets/fe52abe3-c53e-4ae3-86e4-9953461f0875)
+
+![8c27bc91-4d78-4f33-bba7-cfcddd02ca13.gif](https://github.com/user-attachments/assets/00900f6d-9c0a-4514-a0e1-6bd541b6c03d)
+
+
 
 ## <kbd>Events:</kbd>
 **PathMaker** has total 5 events.<br><br>
