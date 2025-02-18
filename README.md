@@ -12,7 +12,8 @@ Developed by th using Fast. An Extension to render animated text paths with cust
 💾 **Size:** 46.31 KB <br>
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
-📅 **Updated On:** [date=2025-02-14 timezone="Asia/Calcutta"]<br>
+📅 **Updated On:** [date=2025-02-18
+timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
 <br>
 **Telegram:** [here](https://t.me/techhamara91)<br>
