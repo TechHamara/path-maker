@@ -17,7 +17,7 @@ timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
 <br>
 **Paid** Price - Dollar - 2💲
-  INR - 175rs.<br>
+  INR - 175rs. [PayPal](https://www.paypal.com/ncp/payment/D29TMNQ8BSP26) <br>
 **Telegram:** [here](https://t.me/techhamara91)<br>
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
 <br>
